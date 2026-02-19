@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Viraj Kosala! 👋
 
-<!--
-**VirajKosala/VirajKosala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="icons.svg" width="500" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Software Engineering Undergraduate at SLIIT
+- 💻 MERN Stack & Java/Spring Boot Developer
+- 🛡️ Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+| Frontend | Backend | Tools |
+| :--- | :--- | :--- |
+| React, HTML5, CSS3 | Node.js, Express, Java | Git, Firebase, Kali Linux |
+
+---
+
+### 📬 Connect with me
+[LinkedIn](YOUR_LINK) | [Portfolio](YOUR_LINK) | [YouTube](YOUR_LINK)
