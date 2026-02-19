@@ -1,0 +1,60 @@
+<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 400px;
+          background: transparent;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .orbit-container {
+          position: relative;
+          width: 250px;
+          height: 250px;
+          border: 1px dashed rgba(255,255,255,0.1);
+          border-radius: 50%;
+          animation: rotate 25s linear infinite;
+        }
+        .icon {
+          position: absolute;
+          width: 45px;
+          height: 45px;
+          animation: counter-rotate 25s linear infinite;
+        }
+        @keyframes rotate {
+          from { transform: rotate(0deg); }
+          to { transform: rotate(360deg); }
+        }
+        @keyframes counter-rotate {
+          from { transform: rotate(0deg); }
+          to { transform: rotate(-360deg); }
+        }
+        /* Positions around the circle (360 / 8 = 45 degrees apart) */
+        .i1 { top: -22px; left: 50%; transform: translateX(-50%); }
+        .i2 { top: 15%; left: 85%; }
+        .i3 { top: 50%; left: 105%; transform: translateY(-50%); }
+        .i4 { top: 85%; left: 85%; }
+        .i5 { bottom: -22px; left: 50%; transform: translateX(-50%); }
+        .i6 { top: 85%; left: 15%; }
+        .i7 { top: 50%; left: -25px; transform: translateY(-50%); }
+        .i8 { top: 15%; left: 15%; }
+      </style>
+
+      <div class="container">
+        <div class="orbit-container">
+          <img class="icon i1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+          <img class="icon i2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          <img class="icon i3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          <img class="icon i4" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          <img class="icon i5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+          <img class="icon i6" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+          <img class="icon i7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          <img class="icon i8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
