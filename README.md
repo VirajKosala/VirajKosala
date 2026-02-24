@@ -1,5 +1,9 @@
-<<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Viraj%20Kosala%20Weerathunga&fontSize=40&fontColor=white&animation=twinkling&fontAlignY=65&desc=✨%20Passionate%20Full%20Stack%20Developer%20✨&descAlignY=85&descSize=18" width="100%">
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&fontSize=40&fontColor=white&fontAlignY=65)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=100&pause=2000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Viraj+Kosala+Weerathunga" alt="Viraj Kosala Weerathunga" />
+
 </div>
   <h2>🚀 Passionate Full Stack Developer</h2>
   
@@ -21,11 +25,7 @@
 
 
 
-<p align="center">
-  <img src="animation.svg" width="500" />
-</p>
 
----
 
 ### 🚀 About Me
 * 🎓 Software Engineering Undergraduate at SLIIT
