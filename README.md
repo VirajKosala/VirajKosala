@@ -1,6 +1,7 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Viraj%20Kosala%20Weerathunga&fontSize=40&fontColor=white&animation=twinkling&fontAlignY=65" width="100%"> </div>
-  <h2>🚀 Passionate Full Stack Developer</h2>
-  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Viraj%20Kosala%20Weerathunga&fontSize=40&fontColor=white&animation=twinkling&fontAlignY=40" width="100%">
+</div>
+<h2 align="center">🚀 Passionate Full Stack Developer</h2>
 ### Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,vue,spring,nodejs,express&perline=8" />
