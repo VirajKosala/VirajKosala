@@ -34,4 +34,4 @@
 * **Malsara** - Full-stack web project
 
 ### 📬 Connect with me
-[LinkedIn](https://linkedin.com/in/viraj-weerathunga-b5a9a6322) | [Portfolio](https://virajkosala.github.io) 
+[LinkedIn](www.linkedin.com/in/viraj-kosala-weerathunga-b5a9a6322) | [Portfolio](https://virajkosala.github.io) 
