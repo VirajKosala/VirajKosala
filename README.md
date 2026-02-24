@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Viraj%20Koasala Weerathunga&fontSize=40&fontColor=white&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Viraj%20Koasala%20Weerathunga&fontSize=40&fontColor=white&animation=fadeIn" width="100%">
   <h2>🚀 passionate Full Stack Developer</h2>
 
 ### Languages & Frameworks
@@ -9,12 +9,16 @@
 
 ### Databases & Cloud Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,azure,firebase,heroku,docker,kubernetes&perline=7" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqldeveloper,sql,postgresql,firebase,docker&perline=7" />
 </p>
 
 ### Development & Design Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,postman,vscode,github,notion,gitlab&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,figma,postman,vscode,intellij,github,githubdesktop&perline=7" />
+</p>
+### VirtualBox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=oraclevirtualbox,vmwareworkstationp&perline=2" />
 </p>
 
 
