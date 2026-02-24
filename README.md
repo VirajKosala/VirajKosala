@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Viraj%20Kosala%20Weerathunga&fontSize=40&fontColor=white&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=&fontSize=40&fontColor=white" width="100%">
+
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=80&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Viraj+Kosala+Weerathunga" alt="Typing SVG" />
+  </h1>
+
   <h2>🚀 Passionate Full Stack Developer</h2>
   
 ### Languages & Frameworks
