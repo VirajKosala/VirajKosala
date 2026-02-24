@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Isuru%20Rangana&fontSize=40&fontColor=white&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Viraj%20Koasala Weerathunga&fontSize=40&fontColor=white&animation=fadeIn" width="100%">
   <h2>🚀 passionate Full Stack Developer</h2>
 
 ### Languages & Frameworks
