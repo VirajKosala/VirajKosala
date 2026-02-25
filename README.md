@@ -25,20 +25,16 @@
 <!--My Current Focus-->
 
 <div>
-    <!--Animation-->
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./animation_dark.gif">
-      <source media="(prefers-color-scheme: light)" srcset="./animation_light.gif">
-      <img align="left" style="width: 50%; height: auto;" alt="Animation" src="./animation_light.jpg">
-    </picture>
-  </div>
+  <!--Animation-->
+  <img src="./animation_light.gif#gh-light-mode-only" width="50%" align="left" alt="Animation" />
+  <img src="./animation_dark.gif#gh-dark-mode-only" width="50%" align="left" alt="Animation" />
 </div>
 
 ---
 
 ### 🚀 About Me
-Software Engineering Student @ SLIIT 🎓 | Full-Stack Developer | Passionate about UI/UX & Problem Solving | Developing Innovative Web Applications 🌍
+Software Engineering Student @ SLIIT 🎓 | Full-Stack Developer | 
+Passionate about UI/UX & Problem Solving | Developing Innovative Web Applications 🌍
 * 💻 MERN Stack & Java/Spring Boot Developer
 * 🛡️ Cybersecurity Enthusiast
   
