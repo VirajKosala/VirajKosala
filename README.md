@@ -20,19 +20,58 @@
 </p>
 
 
+---
 
+<!--My Current Focus-->
 
+<div>
+    <!--Animation-->
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./animation_dark.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./animation_light.gif">
+      <img align="left" style="width: 50%; height: auto;" alt="Animation" src="./animation_light.jpg">
+    </picture>
+  </div>
+</div>
+
+---
 
 ### 🚀 About Me
-* 🎓 Software Engineering Undergraduate at SLIIT
+Software Engineering Student @ SLIIT 🎓 | Full-Stack Developer | Passionate about UI/UX & Problem Solving | Developing Innovative Web Applications 🌍
 * 💻 MERN Stack & Java/Spring Boot Developer
 * 🛡️ Cybersecurity Enthusiast
-* 🎥 Content Creator on YouTube
+  
+---
 
-### 📂 Top Projects
-* **IntraLink** - Chat application developed at Sri Lanka Telecom
-* **Coconut-Based Product Management System** - Inventory system
-* **Malsara** - Full-stack web project
+<!--Footer-->
+
+<h3 align="center">Thanks for visiting my GitHub profile</h3>
 
 ### 📬 Connect with me
-[LinkedIn](www.linkedin.com/in/viraj-kosala-weerathunga-b5a9a6322) | [Portfolio](https://virajkosala.github.io) 
+
+<!--GitHub Stats-->
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="www.linkedin.com/in/viraj-kosala-weerathunga-b5a9a6322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.virajkosala0204@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+[Portfolio](https://virajkosala.github.io) 
+
+<picture>
+  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=2e82ff&height=65&section=footer"media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer"media="(prefers-color-scheme: light)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer"/>
+</picture>
+
