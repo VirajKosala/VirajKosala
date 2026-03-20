@@ -41,7 +41,7 @@ Passionate about UI/UX & Problem Solving | Developing Innovative Web Application
 
 <h3 align="center">Thanks for visiting my GitHub profile</h3>
 
-### 📬 Connect with me
+### 📬 Connect with me 
 
 <!--GitHub Stats-->
 <h3 align="center">Connect with Me</h3>
