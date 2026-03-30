@@ -60,7 +60,7 @@ Passionate about UI/UX & Problem Solving | Developing Innovative Web Application
   </a>
 </p>
 
-[Portfolio](https://virajkosala.github.io) 
+[Portfolio](https://kosalaportfolio.netlify.app/) 
 
 <picture>
   <source srcset="https://capsule-render.vercel.app/api?type=waving&color=2e82ff&height=65&section=footer"media="(prefers-color-scheme: dark)"/>
