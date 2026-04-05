@@ -26,7 +26,8 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif" width="30%" alt="Animation" />
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="30%" alt="Animation Light" />
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="30%" alt="Animation Dark" />
 </div>
 
 ---
@@ -42,11 +43,11 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VirajKosala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VirajKosala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajKosala&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajKosala&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -76,5 +77,5 @@
 <picture>
   <source srcset="https://capsule-render.vercel.app/api?type=waving&color=2e82ff&height=65&section=footer" media="(prefers-color-scheme: dark)"/>
   <source srcset="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer" media="(prefers-color-scheme: light)"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer" alt="footer"/>
 </picture>
