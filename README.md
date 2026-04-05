@@ -42,22 +42,12 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirajKosala&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Viraj's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirajKosala&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=VirajKosala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajKosala&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajKosala&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 🐍 Contribution Journey
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirajKosala/VirajKosala/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VirajKosala/VirajKosala/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
