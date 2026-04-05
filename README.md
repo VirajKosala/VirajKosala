@@ -21,12 +21,10 @@
 
 
 ---
-<div>
-  <!--Animation-->
-  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="50%" align="left" alt="Animation" />
-  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="50%" align="left" alt="Animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="60%" alt="Animation" />
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="60%" alt="Animation" />
 </div>
-
 ---
 
 ### 🚀 About Me
