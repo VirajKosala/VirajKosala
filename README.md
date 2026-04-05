@@ -20,7 +20,7 @@
 </p>
 
 
-###Animation
+
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif" width="35%" alt="Animation" />
