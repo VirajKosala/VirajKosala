@@ -21,10 +21,9 @@
 
 
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="60%" alt="Animation" />
-  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="60%" alt="Animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif" width="60%" alt="Animation" />
+</p>
 ---
 
 ### 🚀 About Me
