@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
+ 
 <p align="center">
   <a href="https://kosalaportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Check_My_Portfolio-41b883?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
