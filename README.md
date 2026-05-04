@@ -75,5 +75,5 @@
 <picture>
   <source srcset="https://capsule-render.vercel.app/api?type=waving&color=2e82ff&height=65&section=footer" media="(prefers-color-scheme: dark)"/>
   <source srcset="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer" media="(prefers-color-scheme: light)"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=41b883&height=65&section=footer" alt="footer" width="100%"/>
 </picture>
