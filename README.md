@@ -24,16 +24,10 @@
 
 ---
 
-<table border="0" align="center">
-  <tr>
-    <td width="15%"></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="280" alt="Animation Light" />
-      <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="280" alt="Animation Dark" />
-    </td>
-    <td width="35%"></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="30%" alt="Animation Light" />
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="30%" alt="Animation Dark" />
+</div>
 
 ---
 
