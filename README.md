@@ -3,8 +3,6 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41b883&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;UI%2FUX+Enthusiast;Cybersecurity+Learner" alt="Typing SVG" />
   </h1>
-  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="30%" alt="Animation Light" />
-  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="30%" alt="Animation Dark" />
 </div>
 
 ---
@@ -23,6 +21,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,figma,postman,vscode,idea,github&perline=7" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="30%" style="margin-right: 20%" alt="Animation Light" />
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="30%" style="margin-right: 20%" alt="Animation Dark" />
+</div>
 
 ---
 
