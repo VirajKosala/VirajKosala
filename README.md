@@ -24,7 +24,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="30%" alt="Animation Light" />
   <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="30%" alt="Animation Dark" />
 </div>
