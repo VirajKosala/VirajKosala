@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Viraj%20Kosala%20Weerathunga&fontSize=40&fontColor=white&animation=twinkling&fontAlignY=40" width="100%">
-
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41b883&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;UI%2FUX+Enthusiast;Cybersecurity+Learner" alt="Typing SVG" />
   </h1>
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="30%" alt="Animation Light" />
+  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="30%" alt="Animation Dark" />
 </div>
 
 ---
@@ -25,13 +26,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_light.gif#gh-light-mode-only" width="30%" alt="Animation Light" />
-  <img src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/main/animation_dark.gif#gh-dark-mode-only" width="30%" alt="Animation Dark" />
-</div>
-
----
-
 ### 🚀 About Me
 **Software Engineering Student @ SLIIT 🎓** I am a passionate Full-Stack Developer focused on building innovative web applications and solving complex problems through clean code and intuitive UI/UX design.
 
@@ -45,7 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VirajKosala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajKosala&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -67,7 +60,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
- 
+
 <p align="center">
   <a href="https://kosalaportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Check_My_Portfolio-41b883?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
