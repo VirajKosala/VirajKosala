@@ -50,6 +50,31 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VirajKosala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VirajKosala&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirajKosala/VirajKosala/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VirajKosala/VirajKosala/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/VirajKosala/VirajKosala/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
 <h3 align="center">🤝 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/viraj-kosala-weerathunga-b5a9a6322" target="_blank">
@@ -70,6 +95,10 @@
   <a href="https://kosalaportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Check_My_Portfolio-41b883?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VirajKosala&style=for-the-badge&color=41b883" alt="Visitor Counter" />
 </p>
 
 <picture>
