@@ -9,16 +9,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: VirajKosala
           outputs: |
-            dist/github-snake.svg?color_snake=#2e82ff&color_dots=#0d1117,#1f6feb,#388bfd,#58a6ff,#79c0ff
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#2e82ff&color_dots=#0d1117,#1f6feb,#388bfd,#58a6ff,#79c0ff
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
+            dist/github-snake.svg?color_snake=blue&color_dots=#0d1117,#1f6feb,#388bfd,#58a6ff,#79c0ff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=blue&color_dots=#0d1117,#1f6feb,#388bfd,#58a6ff,#79c0ff
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
